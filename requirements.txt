@@ -1,6 +1,5 @@
 pydub
 flask
-json
 flask_cors
 google-generativeai
 soundfile
