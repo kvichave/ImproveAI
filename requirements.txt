@@ -6,3 +6,4 @@ google-generativeai
 soundfile
 speech_recognition
 gtts
+gunicorn
