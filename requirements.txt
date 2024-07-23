@@ -1,0 +1,8 @@
+pydub
+flask
+json
+flask_cors
+google-generativeai
+soundfile
+speech_recognition
+gtts
